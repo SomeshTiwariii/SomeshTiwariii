@@ -1,5 +1,5 @@
 ###  I'm Somesh Tiwari
-A CS 2nd year Student and a full stack dev currently working as an Intern this summer.
+A CS 4th year Student and a full stack dev currently working as an Intern this summer.
 <br /> <br />
 - My main interests lie in the backend, working with backend, developing server side scripts, configurations, etc 
 <br /> I've explored a lots of fields like Game Dev, ML/AI, etc. 
